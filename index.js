@@ -37,5 +37,5 @@ function sayHiToGrandma(string){
 
 sayHiToGrandma("hello");
 sayHiToGrandma("HELLO");
-sayHiToGrandma("I love yOu, Grandma");
+sayHiToGrandma("I love you, Grandma");
   
