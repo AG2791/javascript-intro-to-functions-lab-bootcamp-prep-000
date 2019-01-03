@@ -5,14 +5,10 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase()
 }
-
-
- const spy = spyOn('log')
-function logShout(string){
  
 console.log(string.toUpperCase)()
 
-}
+
  
 
 
