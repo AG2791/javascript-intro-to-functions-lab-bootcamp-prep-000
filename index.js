@@ -11,9 +11,9 @@ function logShout(string){
  
 console.log(string.toUpperCase)()
 
-
- const spy= spyOn(console,'log')
 }
+ const spy= spyOn(console,'log')
+
 
  
 
