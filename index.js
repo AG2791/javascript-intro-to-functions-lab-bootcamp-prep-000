@@ -11,10 +11,10 @@ function logShout(string){
  
 console.log(string.toUpperCase)()
 
- 
- spy= spyOn(console,'log')
- 
+
+ const spy= spyOn(console,'log')
 }
+
  
 
   
