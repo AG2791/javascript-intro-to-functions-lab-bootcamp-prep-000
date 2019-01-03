@@ -12,7 +12,9 @@ function logShout(string){
 console.log(string.toUpperCase)()
 
  }
- spy='log'
+ spy= spyOn(console,'log')
+ 
+ console.log(logShout)
  
 
   
