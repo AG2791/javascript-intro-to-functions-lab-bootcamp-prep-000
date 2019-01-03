@@ -22,9 +22,10 @@ logShout('hello')
 
 logWhisper('hello')
 
-
+var lowvolume= "I Can't hear"
 function sayHiToGrandma(string) {
   if string = toLowerCase() 
+   return
 }
 
   
