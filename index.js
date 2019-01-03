@@ -12,7 +12,7 @@ function logShout(string){
 console.log(string.toUpperCase)()
 
 }
- const spy= spyOn('log')
+ const spy = spyOn('log')
 
 
  
