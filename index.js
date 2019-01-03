@@ -22,18 +22,18 @@ logShout('hello')
 
 logWhisper('hello')
 
-// var lowVolume = "I can't hear you";
-// var highVoume = "YES Indeed";
-// var reponse = "I love you, too";
+var lowVolume = "I can't hear you";
+var highVoume = "YES Indeed";
+var reponse = "I love you, too";
 
 function sayHiToGrandma(string){
   if string === toLowerCase
-   return
+   return lowVolume;
    
    else if string === toUpperCase
-   return highVoume
+   return highVoume;
    
-   else if string === reponse
+   else if string === reponse;
 }
 
   
