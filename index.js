@@ -23,6 +23,8 @@ logShout('hello')
 logWhisper('hello')
 
 
-function sayHiToGrandma()
-return
+function sayHiToGrandma() {
+  if
+}
+
   
