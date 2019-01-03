@@ -27,13 +27,13 @@ var highVoume = "YES Indeed";
 var reponse = "I love you, too";
 
 function sayHiToGrandma(string){
-  if string = toLowerCase() 
+  if string === toLowerCase
    return lowVolume
    
-   else if string = toUpperCase()
+   else if string === toUpperCase
    return highVoume
    
-   else if string = reponse()
+   else if string === reponse
 }
 
   
