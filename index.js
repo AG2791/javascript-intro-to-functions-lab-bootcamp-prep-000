@@ -29,7 +29,7 @@ function sayHiToGrandma(string){
    return "I can't hear you";
    
    else if (string === toUpperCase())
-   return "YES Indeed" ;
+   return "YES INDEED" ;
    
    else if (string === "I Love you, grandma")
    return "I love you, too";
