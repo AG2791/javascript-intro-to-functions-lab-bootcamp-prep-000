@@ -33,7 +33,7 @@ function sayHiToGrandma(string){
    else if string = toUpperCase()
    return highVoume
    
-   else if string = reponse
+   else if string = reponse()
 }
 
   
