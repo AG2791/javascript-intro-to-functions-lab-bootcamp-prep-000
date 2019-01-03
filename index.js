@@ -13,7 +13,6 @@ console.log(string.toUpperCase)
 
  }
  spy='log'
- rern(string)
- tu
+ 
 
   
